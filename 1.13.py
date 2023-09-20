@@ -1,8 +1,0 @@
-n = int(input())
-def factorial(n):
-    sum = 1
-    for i in range(1,n+1):
-        sum *= i
-    print(sum)
-
-factorial(n)
