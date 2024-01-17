@@ -1,0 +1,97 @@
+[
+    {
+        "username": "will-ww",
+        "repositories": [
+            {
+                "name": ".github",
+                "description": null,
+                "url": "https://github.com/will-ww/.github"
+            },
+            {
+                "name": "AccelerateDevOps",
+                "description": "This is the companion repository for my book Accelerate DevOps with GitHub (2022). You can find all hands-on labs and other examples from the book here. Please reach out to me if something is broken.",
+                "url": "https://github.com/will-ww/AccelerateDevOps"
+            },
+            {
+                "name": "blockpy",
+                "description": "Blockly that's more Python than JavaScript, powered with Skulpt",
+                "url": "https://github.com/will-ww/blockpy"
+            },
+            {
+                "name": "hello-world",
+                "description": "Repository for testing",
+                "url": "https://github.com/will-ww/hello-world"
+            },
+            {
+                "name": "IntroDaSE",
+                "description": "\u300a\u6570\u636e\u79d1\u5b66\u4e0e\u5de5\u7a0b\u5bfc\u8bba\u300b\u6559\u6750\u914d\u5957\u8d44\u6e90",
+                "url": "https://github.com/will-ww/IntroDaSE"
+            },
+            {
+                "name": "mermaid",
+                "description": "Generation of diagram and flowchart from text in a similar manner as markdown",
+                "url": "https://github.com/will-ww/mermaid"
+            },
+            {
+                "name": "metro",
+                "description": null,
+                "url": "https://github.com/will-ww/metro"
+            },
+            {
+                "name": "OpenEdu",
+                "description": "\u5de5\u7a0b\u90e8\u3001\u6570\u5b57\u7d20\u517b\u57fa\u5730\u7b49\u7684\u89c4\u5212\u3001\u54c1\u724c\u5efa\u8bbe\u4e0e\u5ba3\u4f20",
+                "url": "https://github.com/will-ww/OpenEdu"
+            },
+            {
+                "name": "OpenSourceLicense-FQA",
+                "description": null,
+                "url": "https://github.com/will-ww/OpenSourceLicense-FQA"
+            },
+            {
+                "name": "ospo101",
+                "description": "OSPO 101 Training Modules",
+                "url": "https://github.com/will-ww/ospo101"
+            },
+            {
+                "name": "ppcloudcomputing",
+                "description": "\u300a\u4e91\u8ba1\u7b97\u539f\u7406\u4e0e\u5b9e\u8df5\u300b\u6559\u6750\u7684\u914d\u5957\u8d44\u6e90",
+                "url": "https://github.com/will-ww/ppcloudcomputing"
+            },
+            {
+                "name": "PythonFromDAToDS",
+                "description": "\u56fe\u4e66\u300aPython\u7f16\u7a0b\uff1a\u4ece\u6570\u636e\u5206\u6790\u5230\u6570\u636e\u79d1\u5b66\u300b\u7684\u914d\u5957\u8d44\u6e90",
+                "url": "https://github.com/will-ww/PythonFromDAToDS"
+            },
+            {
+                "name": "README",
+                "description": "README\u6587\u4ef6\u8bed\u6cd5\u89e3\u8bfb\uff0c\u5373Github Flavored Markdown\u8bed\u6cd5\u4ecb\u7ecd",
+                "url": "https://github.com/will-ww/README"
+            },
+            {
+                "name": "will-ww",
+                "description": "Config files for my GitHub profile.",
+                "url": "https://github.com/will-ww/will-ww"
+            },
+            {
+                "name": "wuhan2020",
+                "description": "\u6b66\u6c49\u65b0\u578b\u51a0\u72b6\u75c5\u6bd2\u9632\u75ab\u4fe1\u606f\u6536\u96c6\u5e73\u53f0",
+                "url": "https://github.com/will-ww/wuhan2020"
+            },
+            {
+                "name": "x-lab",
+                "description": "x-lab academia website ",
+                "url": "https://github.com/will-ww/x-lab"
+            }
+        ]
+    },
+    {
+        "username": "SSSSizn",
+        "repositories": [
+            {
+                "name": "HomeworkForDaSE",
+                "description": null,
+                "url": "https://github.com/SSSSizn/HomeworkForDaSE"
+            }
+        ]
+    }
+]
